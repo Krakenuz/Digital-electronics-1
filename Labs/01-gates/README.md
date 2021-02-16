@@ -29,3 +29,6 @@ https://www.edaplayground.com/x/Mj8F
 
 ### Odkaz na Playground se kterým jsem ověřil výsledky
 https://www.edaplayground.com/x/tbBn
+
+
+#### VHD Soubory se nachází v github adresáři.
