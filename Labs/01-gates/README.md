@@ -5,7 +5,7 @@ https://github.com/Krakenuz/Digital-electronics-1
 
 ![Logic function](Images/equations.png)
 
-### Odkaz na Playground se kterým jsem ověřil výsledky
+### Odkaz na Playground se kterým jsme ověřili výsledky
 https://www.edaplayground.com/x/Mj8F
 ### Screenshot ze simulátoru
 ![Logic function](Images/simulator.PNG)
@@ -23,11 +23,13 @@ https://www.edaplayground.com/x/Mj8F
 
 
 ## Ověření Distributivních zákonů
+OUT - OUT 4 v playgroundu ověřují booleovské operace.
+OUT5 simuluje levou stranu rovnice x*y+x*z = x*(y+z). OUT6 simuluje pravou stranu této rovnice. OUT5 i OUT6 mají stejný průběh. OUT7 a OUT8 simulují poslední rovnici (x+y)*(x+z)=x+(y*z). OUT7 a OUT8 mají také stejný průběh. Tímto jsme ověřili platnost Distribučních zákonů.
 
 ### Screenshot ze simulátoru
 ![Logic function](Images/simulator2.PNG)
 
-### Odkaz na Playground se kterým jsem ověřil výsledky
+### Odkaz na Playground se kterým jsme ověřili výsledky
 https://www.edaplayground.com/x/tbBn
 
 
