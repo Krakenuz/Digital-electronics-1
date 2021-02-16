@@ -1,3 +1,5 @@
+![Logic function](Images/equations.png)
+
 ```LaTeX
 \begin{align*}
     f(c,b,a) =&~ \overline{b}\,a + \overline{c}\,\overline{b}\\
