@@ -17,4 +17,4 @@
 | 14 | 1 1 | 1 0 | 1 | 0 | 0 |
 | 15 | 1 1 | 1 1 | 0 | 1 | 0 |
 
-![Binary comparator functions](Images/pic.png)
+![Binary comparator functions](Images/pic1.png)
