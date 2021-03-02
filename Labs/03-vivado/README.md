@@ -87,4 +87,4 @@ __Create new project__
 ![Create new project](Images/board.PNG)
 ![Create new project](Images/finish.PNG)
 ![Create new project](Images/define_modules.PNG)
-![Create new project](Images/simulace-run.PNG)
+![Create new project](Images/simulace-run.png)
