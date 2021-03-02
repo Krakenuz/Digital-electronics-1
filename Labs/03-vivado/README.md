@@ -86,7 +86,7 @@ __Choose RTL Project and click next__
 ![Create new project](Images/next2.PNG)
 __Create VHDL files__
 ![Create new project](Images/newfile.PNG)
-__After creating vhdl files click next
+__After creating vhdl files click next__
 ![Create new project](Images/next3.PNG)
 __Add nexys constraint XDC file__
 ![Create new project](Images/next4.PNG)
