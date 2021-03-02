@@ -98,6 +98,7 @@ __Click finish__
 __Define inputs and outputs__
 
 ![Create new project](Images/define_modules.PNG)
+
 __After writing VHDL files run simulation__
 
 ![Create new project](Images/simulace-run.png)
