@@ -78,13 +78,23 @@ begin
 ## Vivado tutorial
 __Create new project__
 ![Create new project](Images/File-new.png)
+__Click next__
 ![Create new project](Images/next.PNG)
+__Write name of project__
 ![Create new project](Images/name.PNG)
+__Choose RTL Project and click next__
 ![Create new project](Images/next2.PNG)
+__Create VHDL files__
 ![Create new project](Images/newfile.PNG)
+__After creating vhdl files click next
 ![Create new project](Images/next3.PNG)
+__Add nexys constraint XDC file__
 ![Create new project](Images/next4.PNG)
+__Choose Nexys Board__
 ![Create new project](Images/board.PNG)
+__Click finish__
 ![Create new project](Images/finish.PNG)
+__Define inputs and outputs__
 ![Create new project](Images/define_modules.PNG)
+__After writing VHDL files run simulation
 ![Create new project](Images/simulace-run.png)
