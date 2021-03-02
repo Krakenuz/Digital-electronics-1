@@ -94,7 +94,10 @@ __Choose Nexys Board__
 ![Create new project](Images/board.PNG)
 __Click finish__
 ![Create new project](Images/finish.PNG)
+
 __Define inputs and outputs__
+
 ![Create new project](Images/define_modules.PNG)
-__After writing VHDL files run simulation
+__After writing VHDL files run simulation__
+
 ![Create new project](Images/simulace-run.png)
