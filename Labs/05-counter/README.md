@@ -188,5 +188,5 @@ begin
 end architecture Behavioral;
 ```
 ### Image of top layer
-20210316_214346
+
 ![Simulace](Images/20210316_214346.jpg)
