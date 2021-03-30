@@ -481,9 +481,13 @@ p_rst : process
     end process p_asserts_gen;
 ```
 ### Simulated waveforms
+### Asynchronní D
 ![graf](Images/pic3-Dasync.PNG)
+### Synchronní D
 ![graf](Images/pic3-Dsync.PNG)
+### JK
 ![graf](Images/pic3-JK.PNG)
+### T
 ![graf](Images/pic3-T.PNG)
 
 ## Shift register
