@@ -94,6 +94,28 @@ p_stimulus : process
         wait;    
         
     end process p_stimulus;
+	
+p_asserts_gen : process
+    begin
+        report "Asserts process started" severity note;
+        wait for 55ns;
+        assert(s_arst = '1' and s_q = '0')
+        report "RESET" severity error;
+        
+        wait for 10ns;
+        assert(s_arst = '1' and s_q = '0')
+        report "RESET" severity error;
+        
+        wait for 10ns;
+        assert(s_arst = '1' and s_q = '0')
+        report "RESET" severity error;
+        
+        wait for 10ns;
+        assert(s_arst = '0' and s_q = '1')
+        report "OUT" severity error;
+        report "Asserts process finished" severity note;
+        wait;
+    end process p_asserts_gen; 
 ```
 ### Simulated waveforms
 ![graf](Images/pic2.PNG)
